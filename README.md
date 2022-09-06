@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 
-[![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://riwltnchgo.tistory.com/category)](https://riwltnchgo.tistory.com/category)
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
