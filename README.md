@@ -23,3 +23,5 @@
 
 
 ![GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=riwltnchgo0625&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riwltnchgo0625&layout=compact dark&theme=onedark)
