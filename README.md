@@ -21,6 +21,6 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
 
-![GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=riwltnchgo0625&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
+![GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=riwltnchgo0625&show_icons=true&count_private=true&line_height=24&theme=highcontrast&hide=stars)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riwltnchgo0625&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riwltnchgo0625&layout=compact&theme=highcontrast)
